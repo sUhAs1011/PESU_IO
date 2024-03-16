@@ -1,4 +1,2 @@
 
-Hi, this is a code based on data scrapping. So basically data scrapping in simple words means extraction of data.So generally in case of data scrapping the data is 
-imported from a website, which is then transferred to a csv file.So you can also use this code by changing the url and attributes according that specific website,
-from where you wish to extract data.
+Data scraping involves extracting information from websites and transferring it into a CSV file. Essentially, it's the process of gathering data from web pages. By adjusting the URL and attributes within the code, you can customize it to scrape data from different websites according to your preferences. This code can be utilized to extract data efficiently by targeting specific elements on a webpage and organizing the information into a structured format within a CSV file.
